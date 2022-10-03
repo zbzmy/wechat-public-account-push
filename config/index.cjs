@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '江苏',
   CITY: '常州',
 
-  USERS: [
+  USERS: [ZMY912116],
     {
       // 想要发送的人的名字
       name: '亲爱的',
