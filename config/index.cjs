@@ -16,10 +16,10 @@ const USER_CONFIG = {
   PROVINCE: '江苏',
   CITY: '常州',
 
-  USERS: [ZMY912116],
+  USERS: ["ZMY912116"],
     {
       // 想要发送的人的名字
-      name: '亲爱的',
+      name: '马叶',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o1CTX6H32R-kUHaF5agqq0RGARyI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -49,9 +49,9 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '	nH-0dJwed1vCSsw8mD-S9tSK3MI8tY1C6wHBZRuoVaY',
 
-  CALLBACK_USERS: [
+  CALLBACK_USERS: ["Kmynsty"]
     {
       name: '赵本周',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
